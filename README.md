@@ -1,6 +1,7 @@
 # luxojr
 Get pixels from image or buffer
 
+Support types: image/jpeg, image/jpg, image/png 
 
 ## Installation
 ```bash
